@@ -1,0 +1,9 @@
+HTML file,Recommended WordPress slug,Page type,Primary connections
+index.html,/,Homepage,Our Brands|Products|About|Wholesale|Contact
+brands.html,/our-brands/,Brand listing,TURHAN|LUMI CLEAR|NOOREA concept
+products.html,/products/,Product listing,TURHAN|LUMI CLEAR|NOOREA concept
+about.html,/about/,Company,Brands|Contact
+wholesale.html,/wholesale/,Business,Contact inquiry
+turhan.html,/turhan/,Product detail,Products|Contact|Wholesale
+lumi-clear.html,/lumi-clear/,Product detail,Products|Contact|Wholesale
+contact.html,/contact/,Contact,Wholesale|FAQ
